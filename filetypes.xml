@@ -3,16 +3,18 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="tpl" type="HTML" />
+      <mapping ext="pde" type="ObjectiveC" />
+      <mapping ext="ino" type="ObjectiveC" />
       <mapping pattern="giftcard_email_eng" type="PLAIN_TEXT" />
       <mapping pattern="reload" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="daily" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
