@@ -1,0 +1,27 @@
+<application>
+  <component name="DatabaseSettings" version="2">
+    <option name="page-size" value="4000" />
+    <csv-formats>
+      <csv-format name="Tab-separated (TSV)" id="df815886-8ec4-4ddb-8c4d-2e7d43de627d">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
+      <csv-format name="Comma-separated (CSV)" id="eb36a5b3-8c89-49fd-9f85-445bd3f18485">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
+    </csv-formats>
+  </component>
+</application>
