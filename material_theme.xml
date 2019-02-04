@@ -1,10 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="tabsHeight" value="25" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isWizardShown" value="true" />
     <option name="customSidebarHeight" value="25" />
+    <option name="tabsHeight" value="25" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="userId" value="688fb41c:168ba6ca00d:-7fff" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
