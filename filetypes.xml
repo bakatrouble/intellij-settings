@@ -13,6 +13,7 @@
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
       <mapping pattern="Jamroot" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-x86_64" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
