@@ -8,6 +8,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="configure" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
+      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping pattern="reload" type="PLAIN_TEXT" />
       <mapping pattern="giftcard_email_eng" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-x86_64" type="PLAIN_TEXT" />
@@ -20,6 +21,7 @@
       <mapping ext="session" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="daily" type="PLAIN_TEXT" />
+      <mapping ext="lesser" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
